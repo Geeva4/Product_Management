@@ -54,4 +54,6 @@ mvn spring-boot:run
 Submit **issues** or **pull requests** to improve the project.
 
 ---
+![Screenshot (32)](https://github.com/user-attachments/assets/dd07467c-e5b3-40f9-bc07-1c1f8c89ccce)
+![Screenshot (33)](https://github.com/user-attachments/assets/d4436893-ca48-415e-a438-49e8f89a809f)
 
